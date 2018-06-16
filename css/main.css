@@ -1,0 +1,42 @@
+@import url("work.css");
+.home{
+  background-image: url("../images/holo2.jpg");
+  background-position: center;
+  background-repeat: left;
+  background-size: cover;
+  min-height: 780px;
+  min-width: 100%;
+  border: 1px solid grey;
+  opacity: .8;
+}
+.home .intro{
+  min-height: 250px;
+  width: 600px;
+  margin-top: 100px;
+  margin-left: 400px;
+  padding-top:10px;
+  border-radius: 30px;
+  border: 1px solid lightblue;
+}
+.home .intro img{
+  width: 150px;
+  height: 150px;
+  padding-left: 230px;
+}
+.intro p{
+  text-align: center;
+  font-size: 50px;
+  text-transform: uppercase;
+  color: #302E30;
+  font-style: oblique;
+}
+.intro p span{
+  display: block;
+  padding-left: 60px;
+  padding-top: 50px;
+}
+.onepage{
+  min-height: 780px;
+  min-width: 100%;
+  border: 1px solid grey;
+}
