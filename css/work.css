@@ -8,3 +8,11 @@ h1{
   font-size: 80px;
   color: #534E54;
 }
+.webpage{
+  float: left;
+  margin-left: 50px;
+  width: 400px;
+  border:2px solid grey;
+  border-radius: 10px;
+  box-shadow: 4px white;
+}
