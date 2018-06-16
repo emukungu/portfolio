@@ -20,3 +20,8 @@ h1{
   height: 300px;
   width: 400px;
   border-radius: 9px 9px 0px 0px;
+}
+.git-link{
+  padding: 130px;
+  text-decoration: none;
+}
