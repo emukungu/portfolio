@@ -34,3 +34,8 @@
   padding-left: 60px;
   padding-top: 50px;
 }
+.onepage{
+  min-height: 780px;
+  min-width: 100%;
+  border: 1px solid grey;
+}
