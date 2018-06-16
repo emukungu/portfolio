@@ -25,3 +25,30 @@ h1{
   padding: 130px;
   text-decoration: none;
 }
+<<<<<<< HEAD
+=======
+h2{
+  padding-left: 50px;
+}
+.bg-info{
+  margin-left: 50px;
+}
+.about{
+  margin-left: 20%;
+  border: 1px solid grey;
+  width: 65%;
+  border-radius: 10px;
+}
+li{
+  line-height: 30px;
+}
+.img2{
+  height: 200px;
+  width: 200px;
+  border-radius: 9px 9px 0px 0px;
+  margin-left: 20px;
+}
+.moringa{
+  width: 90%;
+}
+>>>>>>> about
