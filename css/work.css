@@ -1,0 +1,51 @@
+.onepage{
+  background-color: #E8E7E9;
+}
+h1{
+  text-align: center;
+  padding-top: 20px;
+  font-family: fantasy;
+  font-size: 80px;
+  color: #534E54;
+}
+.webpage{
+  float: left;
+  margin-left: 50px;
+  width: 400px;
+  border:2px solid grey;
+  border-radius: 10px;
+  box-shadow: 4px white;
+}
+.img{
+  height: 300px;
+  width: 400px;
+  border-radius: 9px 9px 0px 0px;
+}
+.git-link{
+  padding: 130px;
+  text-decoration: none;
+}
+h2{
+  padding-left: 50px;
+}
+.bg-info{
+  margin-left: 50px;
+}
+.about{
+  margin-left: 20%;
+  border: 1px solid grey;
+  width: 65%;
+  border-radius: 10px;
+}
+li{
+  line-height: 30px;
+}
+.img2{
+  height: 200px;
+  width: 200px;
+  border-radius: 9px 9px 0px 0px;
+  margin-left: 20px;
+}
+.moringa{
+  width: 90%;
+}
