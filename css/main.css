@@ -22,3 +22,15 @@
   height: 150px;
   padding-left: 230px;
 }
+.intro p{
+  text-align: center;
+  font-size: 50px;
+  text-transform: uppercase;
+  color: #302E30;
+  font-style: oblique;
+}
+.intro p span{
+  display: block;
+  padding-left: 60px;
+  padding-top: 50px;
+}
