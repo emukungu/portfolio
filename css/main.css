@@ -1,0 +1,10 @@
+.home{
+  background-image: url("../images/holo2.jpg");
+  background-position: center;
+  background-repeat: left;
+  background-size: cover;
+  min-height: 780px;
+  min-width: 100%;
+  border: 1px solid grey;
+  opacity: .8;
+}
